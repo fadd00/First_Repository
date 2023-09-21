@@ -1,5 +1,6 @@
 
 // MATERI ALGORITMA PEMROGRAMAN PERTEMUAN 3 : PERULANGAN
+// Syntax perulangan di C++ ada 3 yaitu : for, while, dan do while
 
 #include <iostream>
 using namespace std;
