@@ -1,4 +1,4 @@
-// TUGAS 
+// TUGAS ALPRO PERTEMUAN 2
 
 #include <iostream>
 using namespace std;
